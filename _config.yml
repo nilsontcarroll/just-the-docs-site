@@ -6,3 +6,6 @@ url: https://just-the-docs.github.io
 
 aux_links:
   external link: https://nilson.itch.io/
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
