@@ -12,6 +12,8 @@ TO EDIT
 
 Edit index.md. This file takes [markdown](https://www.markdownguide.org/basic-syntax/) and inline HTML.
 
+Edit _config.yml to make site configuration changes.
+
 <br><br><br>
 <img src="https://www.nilsoncarroll.com/images/2024/brt.gif" alt="drawing" width="50"/>
 <br><br><br>
