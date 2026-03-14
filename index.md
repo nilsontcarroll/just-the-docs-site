@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-
+<head><style>  body {background-color: powderblue;}</style></head>
 This is my just the docs test site = D
 
 I want to figure out how to ~~add pages, add images, add tables,~~ change styles, and create a template for easy editing.
