@@ -6,16 +6,14 @@ layout: home
 
 This is my just the docs test site = D
 
-I want to figure out how to add pages, add images, add tables, change styles, and create a template for easy editing.
+I want to figure out how to add pages, ~add images,~ add tables, change styles, and create a template for easy editing.
 
 TO EDIT
 Edit index.md. This file takes [markdown](https://www.markdownguide.org/basic-syntax/) and inline HTML.
 
 <br><br><br>
-![Alt text for screen readers](https://www.nilsoncarroll.com/images/2024/brt.gif)
-<br><br><br>
 <img src="https://www.nilsoncarroll.com/images/2024/brt.gif" alt="drawing" width="50"/>
-
+<br><br><br>
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
