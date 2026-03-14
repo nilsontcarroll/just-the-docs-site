@@ -30,6 +30,8 @@ Edit _config.yml to make site configuration changes. See Just the Docs [document
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+Use this [tool](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/) to create md tables from spreadsheets.
+
 <br><br><br>
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
