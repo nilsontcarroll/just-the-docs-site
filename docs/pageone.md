@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "page one"
-nav_order: 5
+nav_order: 2
 parent: "Parent Page Title"
 ---
 
