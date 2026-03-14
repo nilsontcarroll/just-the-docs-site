@@ -8,7 +8,9 @@ This is my just the docs test site = D
 
 I want to figure out how to add pages, ~add images,~ add tables, change styles, and create a template for easy editing.
 
-TO EDIT
+
+To Edit
+{: .label .label-blue }
 
 Edit index.md. This file takes [markdown](https://www.markdownguide.org/basic-syntax/) and inline HTML.
 
