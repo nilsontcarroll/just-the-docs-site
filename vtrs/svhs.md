@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "svhs"
+title: svhs
 nav_order: 2
 parent: vtrs
 ---
