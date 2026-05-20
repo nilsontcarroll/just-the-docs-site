@@ -14,6 +14,9 @@ Things I've learned:
 2. Make sure you save new pages as .md files!
 3. custom styles load very slowly and might be slightly buggy
 4. you CAN add a head-style section to an individual page to add custom css
+5. I have not tested this yet but [here](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md) is how to add SEO to jekyll site
+
+<br><br><br>
 
 
 Editing Site
