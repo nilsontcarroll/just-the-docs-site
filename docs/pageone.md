@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "page one"
+title: "MMCC Resources"
 nav_order: 1
 parent: docs
 ---
 
 # Content for My New Page
 
-blah blah blah
+MMCC Resources
