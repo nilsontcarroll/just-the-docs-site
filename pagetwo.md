@@ -5,6 +5,6 @@ nav_order: 3
 
 ---
 
-# Content for My New Page
+# This is Page 2
 
-blah blah blah
+Content for page 2
