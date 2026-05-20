@@ -11,6 +11,8 @@ I want to figure out how to ~~add pages, add images, add tables,~~ change styles
 Things I've learned:
 
 1. nested pages on side bar need parent info based on parent TITLE
+2. Make sure you save new pages as .md files!
+3. custom styles load very slowly and might be slightly buggy
 
 
 Editing Site
