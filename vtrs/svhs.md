@@ -9,6 +9,6 @@ parent: VTRs
 
 info on svhs
 
-<img src="images/vcr.png">
+<img src="https://nilsontcarroll.github.io/just-the-docs-site/images/vcr.png">
 
 "$4000 for parts"
