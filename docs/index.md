@@ -4,6 +4,6 @@ title: docs
 nav_order: 1
 ---
 
-# Content for My New Page
+# This is a list of MMCC resources
 
-blah blah blah
+Here's a short description of those resources and how you can submit new resources
