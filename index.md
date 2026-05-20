@@ -8,6 +8,10 @@ This is my just the docs test site = D
 
 I want to figure out how to ~~add pages, add images, add tables,~~ change styles, and create a template for easy editing.
 
+Things I've learned:
+
+1. nested pages on side bar need parent info based on parent TITLE
+
 
 Editing Site
 {: .label .label-blue }
