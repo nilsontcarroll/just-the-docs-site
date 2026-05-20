@@ -13,6 +13,7 @@ Things I've learned:
 1. nested pages on side bar need parent info based on parent TITLE
 2. Make sure you save new pages as .md files!
 3. custom styles load very slowly and might be slightly buggy
+4. you CAN add a head-style section to an individual page to add custom css
 
 
 Editing Site
