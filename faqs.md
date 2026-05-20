@@ -7,4 +7,9 @@ nav_order: 4
 
 # FAQs
 
-This is a page that could have the FAQs
+# Table of Contents
+* [Go to Introduction](#introduction)
+<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+## Introduction
+Content goes here...
