@@ -28,7 +28,7 @@ Example: Look above at the <head> tags. They appear differently when editing, wh
 <br><br><br>
 
 
-Editing Site
+####Editing Site
 {: .label .label-blue }
 
 Edit index.md. This file takes [markdown](https://www.markdownguide.org/basic-syntax/) and inline HTML.
@@ -42,14 +42,16 @@ Edit _config.yml to make site configuration changes. See Just the Docs [document
 
 <br><br><br>
 
+####Tables
+
 | Accession Number | Title on Object        | Descriptive Title    |
 | ---------------- | ---------------------- | -------------------- |
-| 2022:0002:0001   | Jail Release and Party | Group photo          |
-| 2022:0002:0002   | Jail Release and Party | Group photo          |
-| 2022:0002:0003   | Jail Release and Party | Group photo          |
-| 2022:0002:0004   | Jail Release and Party | Group photo          |
-| 2022:0002:0005   | Jail Release and Party | Group photo          |
-| 2022:0002:0006   | Jail Release and Party | Four men group photo |
+| 2022:0002:0001   | Title 1                | Group photo          |
+| 2022:0002:0002   | Title 2                | Group photo          |
+| 2022:0002:0003   | Title 3                | Group photo          |
+| 2022:0002:0004   | Title 4                | Group photo          |
+| 2022:0002:0005   | Title 5                | Group photo          |
+| 2022:0002:0006   | Title 6                | Four men group photo |
 
 Use this [tool](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/) to create md tables from spreadsheets.
 
