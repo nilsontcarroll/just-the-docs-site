@@ -12,13 +12,16 @@ This is my just the docs test site = D
 
 This page can be looked at for info on how to edit a just the docs site.
 
-Things I've learned:
+Some tips I've learned:
 
 1. Nested pages on side bar need 'parent' info based on parent 'TITLE', not file name
 2. Make sure you save new pages as .md files!
 3. custom styles load very slowly and might be slightly buggy (?)
 4. You CAN add a 'head:style' (html) section to an individual page to add custom css (see above)
-5. I have not tested this yet but [here](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md) is how to add SEO to jekyll site
+6. I have not tested this yet but [here](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md) is how to add SEO to jekyll site
+
+**Note:** Viewing your page in your Github repo will not show you what it actually looks like. You must look at your live page in order to see what it looks like. You can also view your page in 'Code' to see what's under the hood. So there are at least three different ways of looking at your page!
+
 
 <br><br><br>
 
