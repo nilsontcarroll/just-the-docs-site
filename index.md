@@ -22,6 +22,8 @@ Some tips I've learned:
 
 **Note:** Viewing your page in your Github repo will not show you what it actually looks like. You must look at your live page in order to see what it looks like. You can also view your page in 'Code' to see what's under the hood. So there are at least three different ways of looking at your page!
 
+Example: Look above at the <head> tags. They appear differently when editing, when looking at the repo, and on the live site.
+
 
 <br><br><br>
 
