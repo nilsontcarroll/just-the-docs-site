@@ -6,7 +6,7 @@ layout: home
 <head><style>body {background-color: #FDFBF7;}</style></head>
 This is my just the docs test site = D
 
-I want to figure out how to ~~add pages, add images, add tables,~~ change styles, and create a template for easy editing.
+This page can be looked at for info on how to edit a just the docs site.
 
 Things I've learned:
 
