@@ -3,17 +3,21 @@ title: Home
 layout: home
 ---
 
-<head><style>body {background-color: #FDFBF7;}</style></head>
+<head>
+  <style>
+    body {background-color: #pink;}
+  </style>
+</head>
 This is my just the docs test site = D
 
 This page can be looked at for info on how to edit a just the docs site.
 
 Things I've learned:
 
-1. nested pages on side bar need parent info based on parent TITLE
+1. Nested pages on side bar need 'parent' info based on parent 'TITLE', not file name
 2. Make sure you save new pages as .md files!
-3. custom styles load very slowly and might be slightly buggy
-4. you CAN add a head-style section to an individual page to add custom css
+3. custom styles load very slowly and might be slightly buggy (?)
+4. You CAN add a 'head:style' (html) section to an individual page to add custom css (see above)
 5. I have not tested this yet but [here](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md) is how to add SEO to jekyll site
 
 <br><br><br>
