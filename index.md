@@ -12,7 +12,7 @@ This is my just the docs test site = D
 
 This page can be looked at for info on how to edit a just the docs site.
 
-Some tips I've learned:
+####Some tips I've learned
 
 1. Nested pages on side bar need 'parent' info based on parent 'TITLE', not file name
 2. Make sure you save new pages as .md files!
