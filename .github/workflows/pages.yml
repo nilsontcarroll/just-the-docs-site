@@ -44,7 +44,7 @@ jobs:
         uses: actions/jekyll-build-pages@v1.0.13
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v7
+        uses: actions/upload-pages-artifact@v4
 
   # Deployment job
   deploy:
