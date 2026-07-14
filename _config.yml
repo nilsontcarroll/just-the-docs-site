@@ -1,6 +1,8 @@
 title: nilson's just the docs test
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+plugins:
+  - jekyll-remote-theme
 
 url: https://just-the-docs.github.io
 
